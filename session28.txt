@@ -1,0 +1,73 @@
+
+
+### 🧪 Mini Final Quiz (Optional Challenge)
+
+#### ✅ Q1: What will this output?
+
+```python
+def mystery(x):
+    return x[::-1]
+
+print(mystery("hello"))
+```
+
+#### ✅ Q2: What’s the difference between a list and a tuple?
+
+#### ✅ Q3: Write a function that checks if a number is **prime**.
+
+#### ✅ Q4: What's the purpose of `__init__` in a class?
+
+#### ✅ Q5: Convert this list to a set and remove duplicates:
+
+```python
+nums = [2, 3, 2, 4, 5, 3, 4]
+```
+
+        answers now 
+
+q1) olleh -- this will make the loop to get run in a reverse loop mode
+
+Q2) list is an collection of items or values which is mutable
+    while the tuple is inmutable it coundt not modifided like list
+
+Q3)num = int(input("Enter the num :))
+    def prime(num):
+        if num %= 0:
+            print("It is prime")
+        else:
+            print("NOT prime)
+
+Q4) __init__ class is used to pass the string values like __init__(self,name,num)
+    it is used to define functions in a simple order
+
+Q5)
+import pandas as pd
+nums = [2, 3, 2, 4, 5, 3, 4]
+
+df = df.DataFrame(nums)
+prime(df.drop_duplicates())
+
+
+finally on 23-05-2025 at 4:57 pm i have completed my python journey
+i believe that it has more
+i need to to leaen more indepth
+i think there will be always mistakes so i willleaarn 
+at last 
+
+"UNTIL DEATH DEFEAT IS PYSOCOLOGICAL"
+
+
+
+🏁 What’s Next?
+After this:
+You will have officially completed 100% of Python for Data Science!
+You can proceed to:
+✅ SQL
+✅ Power BI
+✅ Machine Learning
+✅ Mini Projects
+✅ AI/ML Capstone Projects
+
+i will learn 
+thank you man for seeing all these nonsense of mine 
+😎🙂🫡🧐✊🙌
